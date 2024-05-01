@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Student Registration</title>
+  </head>
+  <style>
+    form {
+    border: 1px solid black;
+    padding: 10px;
+position: relative;
+left: 400px;
+width: 400px;
+background-image: linear-gradient(45deg,yellow,orange);
+box-shadow: 5px 5px 5px black,6px 6px 5px red;
+height: 550px;
+overflow: hidden;
+    }
+    h1{
+        text-align: center;
+        text-shadow: 2px 2px 5px black;
+    }
+    input{
+       
+        margin: 7px;
+        font-weight: 500;
+        width: 90%;
+        height: 30px;
+    /* background-color: white; */
+    }
+    label{
+        text-shadow: 1px 1px 9px black;
+    }
+    div{
+        text-align: center;
+    }
+    
+  </style>
+
+  <body>
+    <form action="">
+      <h1>Student Registration</h1>
+      <label for="studentname">Student Name:</label>
+      <input type="text" name="studentname" placeholder="Enter your name" id="studentname" />
+      <br />
+      <label for="age">Age:</label>
+      <input type="number" id="age" name="age" placeholder="Enter your age" />
+      <br />
+      <label for="DOB">Date of Birth:</label>
+      <input type="date" id="DOB" name="DOB" />
+      <br />
+      <label for="Course">Course:</label>
+      <select name="Course" id="Course">
+        <option value="">---Select Course---</option>
+        <option value="BTECH">BTECH</option>
+        <option value="BBA">BBA</option>
+        <option value="LLB">LLB</option>
+        <option value="MTECH">MTECH</option>
+        <option value="MBA">MBA</option>
+      </select>
+      <br>
+      <br>
+      <div>  <input style="text-shadow: 1px 1px 9px black;width: 50%;" type="submit" id="submit" name="submit"></div>
+    
+
+    </form>
+  </body>
+</html>
+
