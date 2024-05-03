@@ -40,7 +40,8 @@ A navigation bar is provided for easy navigation throughout the website.
 Smooth scrolling is implemented for better user experience.
 ![Screenshot 2024-05-03 184854](https://github.com/Dev-Jindal/portfolio/assets/168623305/18ee6e89-6b39-440e-98d2-77ac0dcd1e11)
 
-![Screenshot 2024-05-03 184854](https://github.com/Dev-Jindal/portfolio/assets/168623305/5650920b-7186-4f63-81fb-79d7d21d8446)
+![Screenshot 2024-05-03 184909](https://github.com/Dev-Jindal/portfolio/assets/168623305/8847dd66-63fe-4077-9f18-f51f376e50be)
+
 
 ![Screenshot 2024-05-03 184937](https://github.com/Dev-Jindal/portfolio/assets/168623305/e3593e68-dea0-4983-9c7c-d355750e7702)
 
